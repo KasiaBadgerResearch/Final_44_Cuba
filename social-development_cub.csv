@@ -1,0 +1,901 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Cuba,CUB,2021,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1.00039994716644
+Cuba,CUB,2019,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1.00177001953125
+Cuba,CUB,2012,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Cuba,CUB,2002,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Cuba,CUB,2021,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.981899976730347
+Cuba,CUB,2020,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.971319973468781
+Cuba,CUB,2019,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.966019988059998
+Cuba,CUB,2018,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.956679999828339
+Cuba,CUB,2017,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.949289977550507
+Cuba,CUB,2016,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.950829982757568
+Cuba,CUB,2015,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.943120002746582
+Cuba,CUB,2014,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.950600028038025
+Cuba,CUB,2013,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.984480023384094
+Cuba,CUB,2012,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.981320023536682
+Cuba,CUB,2011,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.978349983692169
+Cuba,CUB,2010,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.97654002904892
+Cuba,CUB,2009,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.975790023803711
+Cuba,CUB,2008,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.974430024623871
+Cuba,CUB,2007,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.971849977970123
+Cuba,CUB,2006,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.974030017852783
+Cuba,CUB,2005,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.970929980278015
+Cuba,CUB,2004,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.966639995574951
+Cuba,CUB,2003,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.967890024185181
+Cuba,CUB,2002,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.965240001678467
+Cuba,CUB,2001,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.961179971694946
+Cuba,CUB,2000,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.96068000793457
+Cuba,CUB,1999,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.963930010795593
+Cuba,CUB,1998,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.961229979991913
+Cuba,CUB,1997,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.965969979763031
+Cuba,CUB,1996,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.966579973697662
+Cuba,CUB,1995,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.991550028324127
+Cuba,CUB,1994,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.990459978580475
+Cuba,CUB,1993,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.987640023231506
+Cuba,CUB,1992,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.985329985618591
+Cuba,CUB,1991,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.970960021018982
+Cuba,CUB,1990,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.959209978580475
+Cuba,CUB,1989,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.945529997348785
+Cuba,CUB,1988,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.935859978199005
+Cuba,CUB,1987,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.937129974365234
+Cuba,CUB,1986,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.940169990062714
+Cuba,CUB,1985,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.939490020275116
+Cuba,CUB,1984,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.953360021114349
+Cuba,CUB,1983,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.947470009326935
+Cuba,CUB,1982,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.946569979190826
+Cuba,CUB,1981,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.938809990882874
+Cuba,CUB,1980,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.924149990081787
+Cuba,CUB,1979,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.923359990119934
+Cuba,CUB,1978,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.919860005378723
+Cuba,CUB,1977,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.930450022220612
+Cuba,CUB,1976,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.937940001487732
+Cuba,CUB,1975,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.944389998912811
+Cuba,CUB,1974,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.953159987926483
+Cuba,CUB,1973,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.957069993019104
+Cuba,CUB,1972,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.963769972324371
+Cuba,CUB,1971,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.972920000553131
+Cuba,CUB,2021,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00246000289917
+Cuba,CUB,2020,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.988740026950836
+Cuba,CUB,2019,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.988439977169037
+Cuba,CUB,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.986819982528687
+Cuba,CUB,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.98496001958847
+Cuba,CUB,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.991129994392395
+Cuba,CUB,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.985199987888336
+Cuba,CUB,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.982819974422455
+Cuba,CUB,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.992250025272369
+Cuba,CUB,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.997210025787354
+Cuba,CUB,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.989809989929199
+Cuba,CUB,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.989660024642944
+Cuba,CUB,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.992110013961792
+Cuba,CUB,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.991890013217926
+Cuba,CUB,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.992500007152557
+Cuba,CUB,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.999710023403168
+Cuba,CUB,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.994029998779297
+Cuba,CUB,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.989419996738434
+Cuba,CUB,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.971340000629425
+Cuba,CUB,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.971939980983734
+Cuba,CUB,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.993399977684021
+Cuba,CUB,2000,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.988499999046326
+Cuba,CUB,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.995000004768372
+Cuba,CUB,1997,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01600003242493
+Cuba,CUB,1996,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.994040012359619
+Cuba,CUB,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.04086005687714
+Cuba,CUB,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.04086995124817
+Cuba,CUB,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05492997169495
+Cuba,CUB,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.07169997692108
+Cuba,CUB,1991,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.06269001960754
+Cuba,CUB,1990,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.04846000671387
+Cuba,CUB,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.03287994861603
+Cuba,CUB,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0113799571991
+Cuba,CUB,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.998220026493073
+Cuba,CUB,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99466997385025
+Cuba,CUB,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.983579993247986
+Cuba,CUB,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.983219981193542
+Cuba,CUB,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99125999212265
+Cuba,CUB,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.980599999427795
+Cuba,CUB,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.974520027637482
+Cuba,CUB,1980,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.967970013618469
+Cuba,CUB,1979,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.970560014247894
+Cuba,CUB,1978,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.960550010204315
+Cuba,CUB,1975,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.944920003414154
+Cuba,CUB,1974,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.948310017585754
+Cuba,CUB,1973,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.951399981975555
+Cuba,CUB,1972,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.957159996032715
+Cuba,CUB,2021,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02637994289398
+Cuba,CUB,2020,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00659000873566
+Cuba,CUB,2019,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01071000099182
+Cuba,CUB,2018,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01574003696442
+Cuba,CUB,2017,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01813995838165
+Cuba,CUB,2016,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02836000919342
+Cuba,CUB,2015,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02482998371124
+Cuba,CUB,2014,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01339995861053
+Cuba,CUB,2013,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.999920010566711
+Cuba,CUB,2012,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01344001293182
+Cuba,CUB,2011,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00127995014191
+Cuba,CUB,2010,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00294995307922
+Cuba,CUB,2009,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00885999202728
+Cuba,CUB,2008,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00944995880127
+Cuba,CUB,2007,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01303005218506
+Cuba,CUB,2006,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02490997314453
+Cuba,CUB,2005,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01684999465942
+Cuba,CUB,2004,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01273000240326
+Cuba,CUB,2003,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.975520014762878
+Cuba,CUB,2002,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.980520009994507
+Cuba,CUB,2001,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.03541004657745
+Cuba,CUB,2000,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02889001369476
+Cuba,CUB,1999,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.04491996765137
+Cuba,CUB,1997,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10092997550964
+Cuba,CUB,1996,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.0395200252533
+Cuba,CUB,1995,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.12023997306824
+Cuba,CUB,1994,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.11337995529175
+Cuba,CUB,1993,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.13785004615784
+Cuba,CUB,1992,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.16626000404358
+Cuba,CUB,1991,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.1512199640274
+Cuba,CUB,1990,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.12843000888824
+Cuba,CUB,1989,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.10864996910095
+Cuba,CUB,1988,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.07846999168396
+Cuba,CUB,1987,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.05578994750977
+Cuba,CUB,1986,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.05044996738434
+Cuba,CUB,1985,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.03416001796722
+Cuba,CUB,1984,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02213001251221
+Cuba,CUB,1983,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.05263996124268
+Cuba,CUB,1982,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02778995037079
+Cuba,CUB,1981,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02616000175476
+Cuba,CUB,1980,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.03497004508972
+Cuba,CUB,1979,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.06201994419098
+Cuba,CUB,1978,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.05308997631073
+Cuba,CUB,1975,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.955470025539398
+Cuba,CUB,1974,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.941929996013641
+Cuba,CUB,1973,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.951020002365112
+Cuba,CUB,1972,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.966359972953796
+Cuba,CUB,2023,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.47067999839783
+Cuba,CUB,2022,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.50540816783905
+Cuba,CUB,2021,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.4617999792099
+Cuba,CUB,2020,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.45397996902466
+Cuba,CUB,2019,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.39846003055573
+Cuba,CUB,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.36904001235962
+Cuba,CUB,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.40463995933533
+Cuba,CUB,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28312003612518
+Cuba,CUB,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28460001945496
+Cuba,CUB,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.40146005153656
+Cuba,CUB,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35446000099182
+Cuba,CUB,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.39777004718781
+Cuba,CUB,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.39952003955841
+Cuba,CUB,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.40551996231079
+Cuba,CUB,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.40688002109528
+Cuba,CUB,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.45911002159119
+Cuba,CUB,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.39028000831604
+Cuba,CUB,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.4234299659729
+Cuba,CUB,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.42856001853943
+Cuba,CUB,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26398003101349
+Cuba,CUB,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.21071994304657
+Cuba,CUB,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.13697004318237
+Cuba,CUB,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18127000331879
+Cuba,CUB,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.16908001899719
+Cuba,CUB,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.38613998889923
+Cuba,CUB,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.37163996696472
+Cuba,CUB,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35672998428345
+Cuba,CUB,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.32144999504089
+Cuba,CUB,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.279629945755
+Cuba,CUB,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30560994148254
+Cuba,CUB,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31867003440857
+Cuba,CUB,1991,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29779005050659
+Cuba,CUB,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30165004730225
+Cuba,CUB,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28764998912811
+Cuba,CUB,1988,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.24336004257202
+Cuba,CUB,1987,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.2279200553894
+Cuba,CUB,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18642997741699
+Cuba,CUB,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17294001579285
+Cuba,CUB,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.13517999649048
+Cuba,CUB,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1188999414444
+Cuba,CUB,1982,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.09074997901917
+Cuba,CUB,1981,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.962140023708344
+Cuba,CUB,1980,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.887589991092682
+Cuba,CUB,1979,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.819480001926422
+Cuba,CUB,1977,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.695590019226074
+Cuba,CUB,1975,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.5730299949646
+Cuba,CUB,1974,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.562770009040833
+Cuba,CUB,1973,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.480379998683929
+Cuba,CUB,1972,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.538720011711121
+Cuba,CUB,1971,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.668730020523071
+Cuba,CUB,2024,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,55.7446808510638
+Cuba,CUB,2023,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,55.7446808510638
+Cuba,CUB,2022,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,53.4129692832764
+Cuba,CUB,2021,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,53.4129692832764
+Cuba,CUB,2020,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,53.2231404958678
+Cuba,CUB,2019,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,53.2231404958678
+Cuba,CUB,2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,53.2231404958678
+Cuba,CUB,2017,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,48.8562091503268
+Cuba,CUB,2016,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,48.8562091503268
+Cuba,CUB,2015,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,48.8562091503268
+Cuba,CUB,2014,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,48.8562091503268
+Cuba,CUB,2013,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,48.8562091503268
+Cuba,CUB,2012,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,45.221843003413
+Cuba,CUB,2011,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,45.221843003413
+Cuba,CUB,2010,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,43.1596091205212
+Cuba,CUB,2009,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,43.1596091205212
+Cuba,CUB,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,43.1596091205212
+Cuba,CUB,2007,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,35.9605911330049
+Cuba,CUB,2006,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,35.9605911330049
+Cuba,CUB,2005,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,35.9605911330049
+Cuba,CUB,2004,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,35.9605911330049
+Cuba,CUB,2003,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,35.9605911330049
+Cuba,CUB,2002,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,27.6206322795341
+Cuba,CUB,2001,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,27.6206322795341
+Cuba,CUB,2000,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,27.6206322795341
+Cuba,CUB,1999,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,27.6206322795341
+Cuba,CUB,1998,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,27.6206322795341
+Cuba,CUB,1997,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,22.7504244482173
+Cuba,CUB,2022,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2021,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2020,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2019,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2018,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2017,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2016,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2015,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2014,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2013,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2012,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2011,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2010,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2009,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2008,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2007,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2006,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2005,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2004,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2003,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2002,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2001,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2000,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,1999,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,1998,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,1997,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,1996,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,1995,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,1994,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,1993,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,1992,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,1991,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,1990,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.1
+Cuba,CUB,2022,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2021,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2020,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2019,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2018,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2017,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2016,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2015,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2014,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2013,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2012,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2011,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2010,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2009,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2008,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2007,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.3
+Cuba,CUB,2006,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.2
+Cuba,CUB,2005,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.2
+Cuba,CUB,2004,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.2
+Cuba,CUB,2003,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.2
+Cuba,CUB,2002,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,2001,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,2000,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,1999,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,1998,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,1997,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,1996,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,1995,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,1994,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,1993,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,1992,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,1991,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,1990,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.1
+Cuba,CUB,2023,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,17.5461519144378
+Cuba,CUB,2022,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,17.4768702592778
+Cuba,CUB,2021,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,17.6660221943356
+Cuba,CUB,2020,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,17.6345655190965
+Cuba,CUB,2019,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,17.4938180846087
+Cuba,CUB,2018,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,17.0088065862221
+Cuba,CUB,2017,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,16.7169655183233
+Cuba,CUB,2016,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,16.0914007558311
+Cuba,CUB,2015,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,15.5584169070798
+Cuba,CUB,2014,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,14.8123591437455
+Cuba,CUB,2013,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,13.5345205451525
+Cuba,CUB,2012,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,12.6581137827073
+Cuba,CUB,2011,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,11.7836687948288
+Cuba,CUB,2010,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.39661281917665
+Cuba,CUB,2009,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.29056007875146
+Cuba,CUB,2008,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.63166145196721
+Cuba,CUB,2007,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.4311292103217
+Cuba,CUB,2006,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.8735494656608
+Cuba,CUB,2005,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,8.73964495013928
+Cuba,CUB,2004,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,8.93175777470567
+Cuba,CUB,2003,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,8.80620418627236
+Cuba,CUB,2002,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,8.19411858097976
+Cuba,CUB,2001,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,8.27574816631753
+Cuba,CUB,2000,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.59211312487552
+Cuba,CUB,1999,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.33708309469297
+Cuba,CUB,1998,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.38432505320571
+Cuba,CUB,1997,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.6221010890081
+Cuba,CUB,1996,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,4.92763479056458
+Cuba,CUB,1995,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.12428377557318
+Cuba,CUB,1994,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.06784356762099
+Cuba,CUB,1993,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.15640803651093
+Cuba,CUB,1992,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.0108990585536
+Cuba,CUB,1991,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,4.89566364890895
+Cuba,CUB,2023,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,26.2649937395765
+Cuba,CUB,2022,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,26.1779094130506
+Cuba,CUB,2021,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,26.3292055046761
+Cuba,CUB,2020,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,26.2594095639484
+Cuba,CUB,2019,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,25.7889543570805
+Cuba,CUB,2018,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,25.0657840265135
+Cuba,CUB,2017,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,24.6869980467363
+Cuba,CUB,2016,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,23.4843768613528
+Cuba,CUB,2015,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,22.415624618115
+Cuba,CUB,2014,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,21.1231129671406
+Cuba,CUB,2013,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,20.0191312363022
+Cuba,CUB,2012,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,19.1135677036892
+Cuba,CUB,2011,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,17.1271367958996
+Cuba,CUB,2010,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.0016487127056
+Cuba,CUB,2009,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,10.8897728253296
+Cuba,CUB,2008,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.3739613608489
+Cuba,CUB,2007,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.1466236959634
+Cuba,CUB,2006,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.7764816322244
+Cuba,CUB,2005,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,13.0167820420478
+Cuba,CUB,2004,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,13.2399579488651
+Cuba,CUB,2003,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.8923489093937
+Cuba,CUB,2002,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.8964076364632
+Cuba,CUB,2001,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.7930328140361
+Cuba,CUB,2000,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,10.639709151045
+Cuba,CUB,1999,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,10.1407754851416
+Cuba,CUB,1998,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,8.79197797503846
+Cuba,CUB,1997,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,7.71696605653608
+Cuba,CUB,1996,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,6.78875868676968
+Cuba,CUB,1995,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,7.06827655109499
+Cuba,CUB,1994,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,7.06568300725681
+Cuba,CUB,1993,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,7.26571747486237
+Cuba,CUB,1992,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,7.134435580934
+Cuba,CUB,1991,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,7.04331299080742
+Cuba,CUB,2024,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,33.367
+Cuba,CUB,2023,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,33.347
+Cuba,CUB,2022,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,33.348
+Cuba,CUB,2021,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,31.412
+Cuba,CUB,2020,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,30.745
+Cuba,CUB,2019,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,33.388
+Cuba,CUB,2018,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,33.626
+Cuba,CUB,2017,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,33.6
+Cuba,CUB,2016,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,33.736
+Cuba,CUB,2015,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.155
+Cuba,CUB,2014,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.162
+Cuba,CUB,2013,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.625
+Cuba,CUB,2012,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.801
+Cuba,CUB,2011,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.829
+Cuba,CUB,2010,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.84
+Cuba,CUB,2009,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,35.86
+Cuba,CUB,2008,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,31.81
+Cuba,CUB,2007,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,31.466
+Cuba,CUB,2006,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,30.6
+Cuba,CUB,2005,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,29.096
+Cuba,CUB,2004,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,27.692
+Cuba,CUB,2003,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.931
+Cuba,CUB,2002,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.52
+Cuba,CUB,2001,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.528
+Cuba,CUB,2000,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.5
+Cuba,CUB,1999,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.362
+Cuba,CUB,1998,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.417
+Cuba,CUB,1997,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,27.345
+Cuba,CUB,1996,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,28.212
+Cuba,CUB,1995,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,28.662
+Cuba,CUB,1994,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,29.728
+Cuba,CUB,1993,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,30.992
+Cuba,CUB,1992,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.301
+Cuba,CUB,1991,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,37.228
+Cuba,CUB,1990,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,40.045
+Cuba,CUB,2024,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,46.808
+Cuba,CUB,2023,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,46.828
+Cuba,CUB,2022,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,46.811
+Cuba,CUB,2021,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,43.1
+Cuba,CUB,2020,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,42.428
+Cuba,CUB,2019,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,45.591
+Cuba,CUB,2018,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,45.582
+Cuba,CUB,2017,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,45.91
+Cuba,CUB,2016,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,46.174
+Cuba,CUB,2015,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,46.244
+Cuba,CUB,2014,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,46.857
+Cuba,CUB,2013,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,46.994
+Cuba,CUB,2012,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,47.368
+Cuba,CUB,2011,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,47.782
+Cuba,CUB,2010,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,48.17
+Cuba,CUB,2009,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,46.66
+Cuba,CUB,2008,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,44.71
+Cuba,CUB,2007,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,45.237
+Cuba,CUB,2006,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,46.158
+Cuba,CUB,2005,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,47.658
+Cuba,CUB,2004,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,49.047
+Cuba,CUB,2003,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,49.762
+Cuba,CUB,2002,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,50.222
+Cuba,CUB,2001,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,50.374
+Cuba,CUB,2000,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,50.75
+Cuba,CUB,1999,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.469
+Cuba,CUB,1998,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.22
+Cuba,CUB,1997,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.198
+Cuba,CUB,1996,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.518
+Cuba,CUB,1995,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.468
+Cuba,CUB,1994,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.739
+Cuba,CUB,1993,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.777
+Cuba,CUB,1992,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.584
+Cuba,CUB,1991,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,49.865
+Cuba,CUB,1990,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,48.251
+Cuba,CUB,2024,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.243
+Cuba,CUB,2023,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.245
+Cuba,CUB,2022,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.238
+Cuba,CUB,2021,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,37.395
+Cuba,CUB,2020,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,36.726
+Cuba,CUB,2019,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.632
+Cuba,CUB,2018,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.745
+Cuba,CUB,2017,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.907
+Cuba,CUB,2016,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.118
+Cuba,CUB,2015,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.365
+Cuba,CUB,2014,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.682
+Cuba,CUB,2013,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.973
+Cuba,CUB,2012,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,41.248
+Cuba,CUB,2011,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,41.475
+Cuba,CUB,2010,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,41.685
+Cuba,CUB,2009,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,41.41
+Cuba,CUB,2008,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.439
+Cuba,CUB,2007,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.539
+Cuba,CUB,2006,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.588
+Cuba,CUB,2005,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.629
+Cuba,CUB,2004,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.666
+Cuba,CUB,2003,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.673
+Cuba,CUB,2002,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.719
+Cuba,CUB,2001,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.802
+Cuba,CUB,2000,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.976
+Cuba,CUB,1999,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.269
+Cuba,CUB,1998,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.673
+Cuba,CUB,1997,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.108
+Cuba,CUB,1996,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.694
+Cuba,CUB,1995,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,41.4
+Cuba,CUB,1994,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,42.061
+Cuba,CUB,1993,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,42.699
+Cuba,CUB,1992,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,43.182
+Cuba,CUB,1991,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,43.721
+Cuba,CUB,1990,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,44.261
+Cuba,CUB,2024,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,49.571
+Cuba,CUB,2023,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,49.83
+Cuba,CUB,2022,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,50.19
+Cuba,CUB,2021,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,50.052
+Cuba,CUB,2020,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,49.826
+Cuba,CUB,2019,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,52.808
+Cuba,CUB,2018,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,52.977
+Cuba,CUB,2017,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,52.804
+Cuba,CUB,2016,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,52.597
+Cuba,CUB,2015,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,52.437
+Cuba,CUB,2014,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,51.738
+Cuba,CUB,2013,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,51.359
+Cuba,CUB,2012,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,50.749
+Cuba,CUB,2011,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,50.145
+Cuba,CUB,2010,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,49.598
+Cuba,CUB,2009,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,50.045
+Cuba,CUB,2008,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,48.501
+Cuba,CUB,2007,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,47.859
+Cuba,CUB,2006,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,46.91
+Cuba,CUB,2005,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,45.491
+Cuba,CUB,2004,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,44.191
+Cuba,CUB,2003,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,43.503
+Cuba,CUB,2002,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,43.01
+Cuba,CUB,2001,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,42.734
+Cuba,CUB,2000,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,42.235
+Cuba,CUB,1999,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,41.415
+Cuba,CUB,1998,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,40.53
+Cuba,CUB,1997,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,40.293
+Cuba,CUB,1996,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,39.768
+Cuba,CUB,1995,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.738
+Cuba,CUB,1994,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.354
+Cuba,CUB,1993,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.243
+Cuba,CUB,1992,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,40.164
+Cuba,CUB,1991,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,41.709
+Cuba,CUB,1990,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,43.19
+Cuba,CUB,2024,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.422
+Cuba,CUB,2023,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.496
+Cuba,CUB,2022,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.554
+Cuba,CUB,2021,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.4
+Cuba,CUB,2020,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,73.892
+Cuba,CUB,2019,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.67
+Cuba,CUB,2018,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.798
+Cuba,CUB,2017,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.962
+Cuba,CUB,2016,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.027
+Cuba,CUB,2015,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.966
+Cuba,CUB,2014,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.987
+Cuba,CUB,2013,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.859
+Cuba,CUB,2012,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.8
+Cuba,CUB,2011,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.798
+Cuba,CUB,2010,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.813
+Cuba,CUB,2009,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.344
+Cuba,CUB,2008,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.743
+Cuba,CUB,2007,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.937
+Cuba,CUB,2006,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.326
+Cuba,CUB,2005,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.937
+Cuba,CUB,2004,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.529
+Cuba,CUB,2003,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.919
+Cuba,CUB,2002,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.176
+Cuba,CUB,2001,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.278
+Cuba,CUB,2000,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.372
+Cuba,CUB,1999,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.479
+Cuba,CUB,1998,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.499
+Cuba,CUB,1997,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.21
+Cuba,CUB,1996,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.907
+Cuba,CUB,1995,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.738
+Cuba,CUB,1994,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.371
+Cuba,CUB,1993,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.925
+Cuba,CUB,1992,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.725
+Cuba,CUB,1991,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.634
+Cuba,CUB,1990,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.557
+Cuba,CUB,2024,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,63.5
+Cuba,CUB,2023,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,63.662
+Cuba,CUB,2022,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,63.866
+Cuba,CUB,2021,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,62.217
+Cuba,CUB,2020,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,61.847
+Cuba,CUB,2019,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.223
+Cuba,CUB,2018,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.367
+Cuba,CUB,2017,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.359
+Cuba,CUB,2016,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.284
+Cuba,CUB,2015,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,65.17
+Cuba,CUB,2014,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.828
+Cuba,CUB,2013,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.571
+Cuba,CUB,2012,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.232
+Cuba,CUB,2011,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,63.928
+Cuba,CUB,2010,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,63.667
+Cuba,CUB,2009,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.164
+Cuba,CUB,2008,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,62.6
+Cuba,CUB,2007,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,62.384
+Cuba,CUB,2006,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,62.112
+Cuba,CUB,2005,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,61.717
+Cuba,CUB,2004,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,61.374
+Cuba,CUB,2003,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,61.236
+Cuba,CUB,2002,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,61.135
+Cuba,CUB,2001,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,61.069
+Cuba,CUB,2000,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.889
+Cuba,CUB,1999,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.556
+Cuba,CUB,1998,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.148
+Cuba,CUB,1997,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.908
+Cuba,CUB,1996,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.519
+Cuba,CUB,1995,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.948
+Cuba,CUB,1994,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.597
+Cuba,CUB,1993,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.329
+Cuba,CUB,1992,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.67
+Cuba,CUB,1991,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.88
+Cuba,CUB,1990,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.066
+Cuba,CUB,2024,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,39.529
+Cuba,CUB,2023,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,39.947
+Cuba,CUB,2022,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,40.427
+Cuba,CUB,2021,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,40.459
+Cuba,CUB,2020,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,40.367
+Cuba,CUB,2019,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.968
+Cuba,CUB,2018,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,43.309
+Cuba,CUB,2017,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,43.365
+Cuba,CUB,2016,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,43.372
+Cuba,CUB,2015,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,43.41
+Cuba,CUB,2014,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.997
+Cuba,CUB,2013,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.86
+Cuba,CUB,2012,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.548
+Cuba,CUB,2011,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.226
+Cuba,CUB,2010,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,41.932
+Cuba,CUB,2009,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.464
+Cuba,CUB,2008,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,41.274
+Cuba,CUB,2007,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,40.88
+Cuba,CUB,2006,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,40.209
+Cuba,CUB,2005,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,39.123
+Cuba,CUB,2004,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,38.132
+Cuba,CUB,2003,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,37.652
+Cuba,CUB,2002,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,37.338
+Cuba,CUB,2001,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,37.214
+Cuba,CUB,2000,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,36.884
+Cuba,CUB,1999,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,36.261
+Cuba,CUB,1998,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.575
+Cuba,CUB,1997,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.452
+Cuba,CUB,1996,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.076
+Cuba,CUB,1995,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,34.252
+Cuba,CUB,1994,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,33.994
+Cuba,CUB,1993,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,33.956
+Cuba,CUB,1992,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,35.703
+Cuba,CUB,1991,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,37.116
+Cuba,CUB,1990,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,38.471
+Cuba,CUB,2024,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,65.518
+Cuba,CUB,2023,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,65.801
+Cuba,CUB,2022,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.03
+Cuba,CUB,2021,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,63.347
+Cuba,CUB,2020,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.871
+Cuba,CUB,2019,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.234
+Cuba,CUB,2018,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.511
+Cuba,CUB,2017,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.818
+Cuba,CUB,2016,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,67.02
+Cuba,CUB,2015,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,67.119
+Cuba,CUB,2014,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,67.318
+Cuba,CUB,2013,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,67.405
+Cuba,CUB,2012,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,67.584
+Cuba,CUB,2011,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,67.811
+Cuba,CUB,2010,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,68.031
+Cuba,CUB,2009,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,68.783
+Cuba,CUB,2008,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,67.471
+Cuba,CUB,2007,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,67.849
+Cuba,CUB,2006,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,68.387
+Cuba,CUB,2005,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,69.121
+Cuba,CUB,2004,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,69.834
+Cuba,CUB,2003,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,70.346
+Cuba,CUB,2002,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,70.761
+Cuba,CUB,2001,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.06
+Cuba,CUB,2000,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.33
+Cuba,CUB,1999,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.589
+Cuba,CUB,1998,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.763
+Cuba,CUB,1997,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.65
+Cuba,CUB,1996,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.533
+Cuba,CUB,1995,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.541
+Cuba,CUB,1994,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.347
+Cuba,CUB,1993,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.019
+Cuba,CUB,1992,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,69.926
+Cuba,CUB,1991,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,68.932
+Cuba,CUB,1990,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,67.945
+Cuba,CUB,2024,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.64
+Cuba,CUB,2023,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.853
+Cuba,CUB,2022,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.946
+Cuba,CUB,2021,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.192
+Cuba,CUB,2020,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.281
+Cuba,CUB,2019,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.826
+Cuba,CUB,2018,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.821
+Cuba,CUB,2017,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.639
+Cuba,CUB,2016,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.178
+Cuba,CUB,2015,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.579
+Cuba,CUB,2014,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.126
+Cuba,CUB,2013,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.544
+Cuba,CUB,2012,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.611
+Cuba,CUB,2011,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.509
+Cuba,CUB,2010,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.708
+Cuba,CUB,2009,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.989
+Cuba,CUB,2008,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.963
+Cuba,CUB,2007,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,1.871
+Cuba,CUB,2006,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.216
+Cuba,CUB,2005,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.21
+Cuba,CUB,2004,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.209
+Cuba,CUB,2003,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.439
+Cuba,CUB,2002,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.673
+Cuba,CUB,2001,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.819
+Cuba,CUB,2000,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,8.442
+Cuba,CUB,1999,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.905
+Cuba,CUB,1998,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.636
+Cuba,CUB,1997,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,11.557
+Cuba,CUB,1996,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,12.816
+Cuba,CUB,1995,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,13.634
+Cuba,CUB,1994,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,14.436
+Cuba,CUB,1993,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,15.103
+Cuba,CUB,1992,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,14.206
+Cuba,CUB,1991,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,13.379
+Cuba,CUB,2024,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.461
+Cuba,CUB,2023,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.635
+Cuba,CUB,2022,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.739
+Cuba,CUB,2021,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.066
+Cuba,CUB,2020,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.213
+Cuba,CUB,2019,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.624
+Cuba,CUB,2018,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.619
+Cuba,CUB,2017,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.741
+Cuba,CUB,2016,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.881
+Cuba,CUB,2015,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.281
+Cuba,CUB,2014,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.42
+Cuba,CUB,2013,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.124
+Cuba,CUB,2012,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.362
+Cuba,CUB,2011,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.97
+Cuba,CUB,2010,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.368
+Cuba,CUB,2009,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.469
+Cuba,CUB,2008,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.346
+Cuba,CUB,2007,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.737
+Cuba,CUB,2006,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.732
+Cuba,CUB,2005,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.8
+Cuba,CUB,2004,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.657
+Cuba,CUB,2003,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.729
+Cuba,CUB,2002,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.584
+Cuba,CUB,2001,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.162
+Cuba,CUB,2000,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.894
+Cuba,CUB,1999,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.408
+Cuba,CUB,1998,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.54
+Cuba,CUB,1997,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.898
+Cuba,CUB,1996,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,5.068
+Cuba,CUB,1995,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,5.72
+Cuba,CUB,1994,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.142
+Cuba,CUB,1993,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.5
+Cuba,CUB,1992,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.041
+Cuba,CUB,1991,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,5.619
+Cuba,CUB,2023,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,48.674
+Cuba,CUB,2022,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,47.767
+Cuba,CUB,2021,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,48.346
+Cuba,CUB,2020,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,50.532
+Cuba,CUB,2019,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,51.098
+Cuba,CUB,2018,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,52.373
+Cuba,CUB,2017,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,49.67
+Cuba,CUB,2016,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,48.43
+Cuba,CUB,2015,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,50.121
+Cuba,CUB,2014,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,49.369
+Cuba,CUB,2013,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,51.077
+Cuba,CUB,2012,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,51.844
+Cuba,CUB,2011,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,55.56
+Cuba,CUB,2010,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,53.624
+Cuba,CUB,2009,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,53.044
+Cuba,CUB,2008,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,49.44
+Cuba,CUB,2007,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,42.955
+Cuba,CUB,2006,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,40.74
+Cuba,CUB,2005,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,42.791
+Cuba,CUB,2004,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,45.007
+Cuba,CUB,2003,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,46.664
+Cuba,CUB,2002,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,47.899
+Cuba,CUB,2001,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,47.437
+Cuba,CUB,2000,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,48.752
+Cuba,CUB,1999,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,52.289
+Cuba,CUB,1998,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,53.942
+Cuba,CUB,1997,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,57.971
+Cuba,CUB,1996,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,56.27
+Cuba,CUB,1995,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,60.837
+Cuba,CUB,1994,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,61.87
+Cuba,CUB,1993,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,62.926
+Cuba,CUB,1992,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,66.695
+Cuba,CUB,1991,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,69.213
+Cuba,CUB,1990,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,78.244
+Cuba,CUB,1989,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,80.344
+Cuba,CUB,1988,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,80.12
+Cuba,CUB,1987,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,78.755
+Cuba,CUB,1986,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,79.706
+Cuba,CUB,1985,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,81.618
+Cuba,CUB,1984,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,83.739
+Cuba,CUB,1983,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,87.483
+Cuba,CUB,1982,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,87.677
+Cuba,CUB,1981,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,80.456
+Cuba,CUB,1980,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,81.891
+Cuba,CUB,1979,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,85.109
+Cuba,CUB,1978,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,89.622
+Cuba,CUB,1977,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,96.525
+Cuba,CUB,1976,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,109.427
+Cuba,CUB,1975,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,122.685
+Cuba,CUB,1974,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,135.89
+Cuba,CUB,1973,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,143.694
+Cuba,CUB,1972,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,149.354
+Cuba,CUB,1971,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,153.223
+Cuba,CUB,1970,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,157.591
+Cuba,CUB,1969,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,160.297
+Cuba,CUB,1968,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,160.316
+Cuba,CUB,1967,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,161.027
+Cuba,CUB,1966,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,162.038
+Cuba,CUB,1965,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,163.894
+Cuba,CUB,1964,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,165.191
+Cuba,CUB,1963,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,165.471
+Cuba,CUB,1962,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,162.55
+Cuba,CUB,1961,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,158.738
+Cuba,CUB,1960,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,155.564
+Cuba,CUB,2023,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.52
+Cuba,CUB,2022,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.098
+Cuba,CUB,2021,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.966
+Cuba,CUB,2020,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.939
+Cuba,CUB,2019,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.913
+Cuba,CUB,2018,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.899
+Cuba,CUB,2017,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.791
+Cuba,CUB,2016,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.952
+Cuba,CUB,2015,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.986
+Cuba,CUB,2014,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.981
+Cuba,CUB,2013,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.13
+Cuba,CUB,2012,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.221
+Cuba,CUB,2011,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.061
+Cuba,CUB,2010,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.885
+Cuba,CUB,2009,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.591
+Cuba,CUB,2008,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.658
+Cuba,CUB,2007,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.658
+Cuba,CUB,2006,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.635
+Cuba,CUB,2005,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.819
+Cuba,CUB,2004,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.572
+Cuba,CUB,2003,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.605
+Cuba,CUB,2002,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.878
+Cuba,CUB,2001,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.587
+Cuba,CUB,2000,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.13
+Cuba,CUB,1999,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.047
+Cuba,CUB,1998,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.666
+Cuba,CUB,1997,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.222
+Cuba,CUB,1996,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.76
+Cuba,CUB,1995,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.476
+Cuba,CUB,1994,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.253
+Cuba,CUB,1993,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.012
+Cuba,CUB,1992,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.901
+Cuba,CUB,1991,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.81
+Cuba,CUB,1990,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.892
+Cuba,CUB,1989,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.795
+Cuba,CUB,1988,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.789
+Cuba,CUB,1987,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.706
+Cuba,CUB,1986,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.426
+Cuba,CUB,1985,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.33
+Cuba,CUB,1984,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.477
+Cuba,CUB,1983,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.695
+Cuba,CUB,1982,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.671
+Cuba,CUB,1981,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.145
+Cuba,CUB,1980,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.851
+Cuba,CUB,1979,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.222
+Cuba,CUB,1978,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.633
+Cuba,CUB,1977,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.933
+Cuba,CUB,1976,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.446
+Cuba,CUB,1975,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.998
+Cuba,CUB,1974,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.546
+Cuba,CUB,1973,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.074
+Cuba,CUB,1972,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.601
+Cuba,CUB,1971,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.125
+Cuba,CUB,1970,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.651
+Cuba,CUB,1969,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.218
+Cuba,CUB,1968,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.766
+Cuba,CUB,1967,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.357
+Cuba,CUB,1966,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.934
+Cuba,CUB,1965,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.64
+Cuba,CUB,1964,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.445
+Cuba,CUB,1963,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.521
+Cuba,CUB,1962,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.711
+Cuba,CUB,1961,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.088
+Cuba,CUB,1960,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.53
+Cuba,CUB,2023,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.672
+Cuba,CUB,2022,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.2
+Cuba,CUB,2021,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.694
+Cuba,CUB,2020,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.968
+Cuba,CUB,2019,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75
+Cuba,CUB,2018,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.045
+Cuba,CUB,2017,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.914
+Cuba,CUB,2016,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.276
+Cuba,CUB,2015,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.573
+Cuba,CUB,2014,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.728
+Cuba,CUB,2013,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.98
+Cuba,CUB,2012,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.154
+Cuba,CUB,2011,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.09
+Cuba,CUB,2010,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.921
+Cuba,CUB,2009,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.641
+Cuba,CUB,2008,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.596
+Cuba,CUB,2007,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.53
+Cuba,CUB,2006,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.285
+Cuba,CUB,2005,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.382
+Cuba,CUB,2004,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.204
+Cuba,CUB,2003,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.322
+Cuba,CUB,2002,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.764
+Cuba,CUB,2001,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.39
+Cuba,CUB,2000,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.852
+Cuba,CUB,1999,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.556
+Cuba,CUB,1998,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.309
+Cuba,CUB,1997,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.048
+Cuba,CUB,1996,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.756
+Cuba,CUB,1995,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.373
+Cuba,CUB,1994,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.1
+Cuba,CUB,1993,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.906
+Cuba,CUB,1992,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.949
+Cuba,CUB,1991,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.866
+Cuba,CUB,1990,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.922
+Cuba,CUB,1989,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.773
+Cuba,CUB,1988,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.849
+Cuba,CUB,1987,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.704
+Cuba,CUB,1986,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.869
+Cuba,CUB,1985,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.792
+Cuba,CUB,1984,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.846
+Cuba,CUB,1983,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.714
+Cuba,CUB,1982,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.53
+Cuba,CUB,1981,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.189
+Cuba,CUB,1980,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.752
+Cuba,CUB,1979,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.604
+Cuba,CUB,1978,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.351
+Cuba,CUB,1977,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.027
+Cuba,CUB,1976,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.462
+Cuba,CUB,1975,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.911
+Cuba,CUB,1974,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.356
+Cuba,CUB,1973,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.795
+Cuba,CUB,1972,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.455
+Cuba,CUB,1971,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.902
+Cuba,CUB,1970,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.392
+Cuba,CUB,1969,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.704
+Cuba,CUB,1968,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.325
+Cuba,CUB,1967,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.884
+Cuba,CUB,1966,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.434
+Cuba,CUB,1965,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.89
+Cuba,CUB,1964,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.389
+Cuba,CUB,1963,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.498
+Cuba,CUB,1962,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.401
+Cuba,CUB,1961,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.761
+Cuba,CUB,1960,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.445
